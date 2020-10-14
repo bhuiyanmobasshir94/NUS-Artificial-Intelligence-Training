@@ -9,3 +9,4 @@ Sessions, Workshop datasets and notebooks while training with National Universit
 2.  [Explicit](https://towardsdatascience.com/building-and-testing-recommender-systems-with-surprise-step-by-step-d4ba702ef80b)
 
 - Instacart market basket analysis [link](https://medium.com/kaggle-blog/instacart-market-basket-analysis-feda2700cded)
+- Food Discovery with Uber Eats: Recommending for the Marketplace [link](https://eng.uber.com/uber-eats-recommending-marketplace/)
