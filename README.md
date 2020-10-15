@@ -18,4 +18,5 @@ Sessions, Workshop datasets and notebooks while training with National Universit
 | Meet Michelangelo: Uber’s Machine Learning Platform | Machine Learning Platform | [link](https://eng.uber.com/michelangelo-machine-learning-platform/) |
 | Deepak Agarwal, Bee-Chung Chen, Pradheep Elango, and Xuanhui Wang. 2011. Click Shaping to Optimize Multiple Objectives. In KDD. ACM, New York, NY, USA, 132–140 | | |
 | Deepak Agarwal, Bee-Chung Chen, Pradheep Elango, and Xuanhui Wang. 2012. Personalized Click Shaping Through Lagrangian Duality for Online Recommendation. In SIGIR. ACM, New York, NY, USA, 485–494. | | |
+| Meta-Graph: Few-Shot Link Prediction Using Meta-Learning | Meta learning | [link](https://eng.uber.com/meta-graph/) |
 
