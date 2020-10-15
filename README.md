@@ -13,3 +13,6 @@ Sessions, Workshop datasets and notebooks while training with National Universit
 | Instacart market basket analysis 	| Market Basket Analysis 	| [link](https://medium.com/kaggle-blog/instacart-market-basket-analysis-feda2700cded) 	|
 | Food Discovery with Uber Eats: Recommending for the Marketplace 	| Recommendation 	| [link](https://eng.uber.com/uber-eats-recommending-marketplace/) 	|
 | Starspace Facebook 	| Recommendation 	| [link](https://ai.facebook.com/tools/starspace) 	|
+| Food Discovery with Uber Eats: Building a Query Understanding Engine  | Recommendation | [link](https://eng.uber.com/uber-eats-query-understanding/)  |
+| Food Discovery with Uber Eats: Using Graph Learning to Power Recommendations  | Recommendation  | [link](https://eng.uber.com/uber-eats-graph-learning/)  |
+
