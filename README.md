@@ -16,8 +16,8 @@ Sessions, Workshop datasets and notebooks while training with National Universit
 | Implicit | Recommendation | [link](https://towardsdatascience.com/building-a-collaborative-filtering-recommender-system-with-clickstream-data-dffc86c8c65)  |
 | Explicit | Recommendation | [link](https://towardsdatascience.com/building-and-testing-recommender-systems-with-surprise-step-by-step-d4ba702ef80b) |
 | Meet Michelangelo: Uber’s Machine Learning Platform | Machine Learning Platform | [link](https://eng.uber.com/michelangelo-machine-learning-platform/) |
-| Deepak Agarwal, Bee-Chung Chen, Pradheep Elango, and Xuanhui Wang. 2011. Click Shaping to Optimize Multiple Objectives. In KDD. ACM, New York, NY, USA, 132–140 | | |
-| Deepak Agarwal, Bee-Chung Chen, Pradheep Elango, and Xuanhui Wang. 2012. Personalized Click Shaping Through Lagrangian Duality for Online Recommendation. In SIGIR. ACM, New York, NY, USA, 485–494. | | |
+| Deepak Agarwal, Bee-Chung Chen, Pradheep Elango, and Xuanhui Wang. 2011. Click Shaping to Optimize Multiple Objectives. In KDD. ACM, New York, NY, USA, 132–140 | Recommendation | |
+| Deepak Agarwal, Bee-Chung Chen, Pradheep Elango, and Xuanhui Wang. 2012. Personalized Click Shaping Through Lagrangian Duality for Online Recommendation. In SIGIR. ACM, New York, NY, USA, 485–494. | Recommendation | |
 | Meta-Graph: Few-Shot Link Prediction Using Meta-Learning | Meta learning | [link](https://eng.uber.com/meta-graph/) |
 | Evaluation Metrics for Recommender Systems | Evaluation | [link](https://towardsdatascience.com/evaluation-metrics-for-recommender-systems-df56c6611093) |
 | Popular evaluation metrics in recommender systems explained | Evaluation | [link](https://medium.com/qloo/popular-evaluation-metrics-in-recommender-systems-explained-324ff2fb427d) |
