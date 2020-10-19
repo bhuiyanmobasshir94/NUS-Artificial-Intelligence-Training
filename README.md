@@ -20,4 +20,8 @@ Sessions, Workshop datasets and notebooks while training with National Universit
 | Deepak Agarwal, Bee-Chung Chen, Pradheep Elango, and Xuanhui Wang. 2012. Personalized Click Shaping Through Lagrangian Duality for Online Recommendation. In SIGIR. ACM, New York, NY, USA, 485–494. | | |
 | Meta-Graph: Few-Shot Link Prediction Using Meta-Learning | Meta learning | [link](https://eng.uber.com/meta-graph/) |
 | Evaluation Metrics for Recommender Systems | Evaluation | [link](https://towardsdatascience.com/evaluation-metrics-for-recommender-systems-df56c6611093) |
+| Popular evaluation metrics in recommender systems explained | Evaluation | [link](https://medium.com/qloo/popular-evaluation-metrics-in-recommender-systems-explained-324ff2fb427d) |
+| Recommender Systems — It’s Not All About the Accuracy | Evaluation | [link](https://gab41.lab41.org/recommender-systems-its-not-all-about-the-accuracy-562c7dceeaff) |
+
+
 
