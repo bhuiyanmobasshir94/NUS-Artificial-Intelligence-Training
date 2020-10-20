@@ -23,6 +23,8 @@ Sessions, Workshop datasets and notebooks while training with National Universit
 | Popular evaluation metrics in recommender systems explained | Evaluation | [link](https://medium.com/qloo/popular-evaluation-metrics-in-recommender-systems-explained-324ff2fb427d) |
 | Recommender Systems — It’s Not All About the Accuracy | Evaluation | [link](https://gab41.lab41.org/recommender-systems-its-not-all-about-the-accuracy-562c7dceeaff) |
 | Recommendation System Evaluation Metrics | Evaluation | [link](https://medium.com/@rishabhbhatia315/recommendation-system-evaluation-metrics-3f6739288870) |
-
-
+| Getting Started with a Movie Recommendation System | Kaggle | [link](https://www.kaggle.com/ibtesama/getting-started-with-a-movie-recommendation-system) |
+| Film recommendation engine | Kaggle | [link](https://www.kaggle.com/fabiendaniel/film-recommendation-engine) |
+| Movie Recommender Systems Using Neural Network | Kaggle | [link](https://www.kaggle.com/mejbahahammad/movie-recommender-systems-using-neural-network?) |
+| Building_Recommender_System_with_Surprise | Github | [link ](https://github.com/singhsidhukuldeep/RecommendationSystem/blob/master/Building_Recommender_System_with_Surprise.ipynb) |
 
