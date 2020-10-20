@@ -30,9 +30,12 @@ Sessions, Workshop datasets and notebooks while training with National Universit
 
 
 #### Kaggle Notebooks:
-|Title  	| link 	|
+|Kernel Name  	| link 	|
 |-	|-	|
 | Food Recommendation Dataset Exploration | [kernel](https://www.kaggle.com/mobasshir/food-recommendation-dataset-exploration) |
 | Recommender System | [kernel](https://www.kaggle.com/mobasshir/recommender-system/) |
-
+| Recommendation engine exploration | [kernel](https://www.kaggle.com/mobasshir/recommendation-engine-exploration) |
+| Recommendation engine | [kernel](https://www.kaggle.com/mobasshir/recommendation-engine/) |
+| Book Recommendations from Charles Darwin | [kernel](https://www.kaggle.com/mobasshir/book-recommendations-from-charles-darwin) |
+| Market Basket Analysis for Marketing Analytics | [kernel](https://www.kaggle.com/mobasshir/market-basket-analysis-for-marketing-analytics) |
 
