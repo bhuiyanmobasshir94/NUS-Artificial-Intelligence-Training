@@ -28,3 +28,11 @@ Sessions, Workshop datasets and notebooks while training with National Universit
 | Movie Recommender Systems Using Neural Network | Kaggle | [link](https://www.kaggle.com/mejbahahammad/movie-recommender-systems-using-neural-network?) |
 | Building_Recommender_System_with_Surprise | Github | [link ](https://github.com/singhsidhukuldeep/RecommendationSystem/blob/master/Building_Recommender_System_with_Surprise.ipynb) |
 
+
+#### Kaggle Notebooks:
+|Title  	| link 	|
+|-	|-	|
+| Food Recommendation Dataset Exploration | [kernel](https://www.kaggle.com/mobasshir/food-recommendation-dataset-exploration) |
+| Recommender System | [kernel](https://www.kaggle.com/mobasshir/recommender-system/) |
+
+
