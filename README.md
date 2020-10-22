@@ -1,6 +1,6 @@
 ### Artificial Intelligence for IT/ITES by ISS National University of Singapore
 
-Sessions, Workshop datasets and notebooks while training with National University of Singapore
+Sessions, Workshop datasets and notebooks while training with National University of Singapore powered by LICT and Ministry of ICT, Bangladesh. 
 
  
 #### Resources:
