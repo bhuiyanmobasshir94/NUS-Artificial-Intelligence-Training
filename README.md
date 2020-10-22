@@ -28,6 +28,7 @@ Sessions, Workshop datasets and notebooks while training with National Universit
 | Movie Recommender Systems Using Neural Network | Kaggle | [link](https://www.kaggle.com/mejbahahammad/movie-recommender-systems-using-neural-network?) |
 | Building_Recommender_System_with_Surprise | Github | [link ](https://github.com/singhsidhukuldeep/RecommendationSystem/blob/master/Building_Recommender_System_with_Surprise.ipynb) |
 | Collaborative Filtering with Neural Networks | Github | [link](https://github.com/yanneta/pytorch-tutorials/blob/master/collaborative-filtering-nn.ipynb) |
+| Graph Convolutional Neural Networks for Web-Scale Recommender Systems | GCN Paper | [link](https://paperswithcode.com/paper/graph-convolutional-neural-networks-for-web) |
 
 
 #### Kaggle Notebooks:
