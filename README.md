@@ -34,7 +34,7 @@ Sessions, Workshop datasets and notebooks while training with National Universit
 | ACM RecSys | Conferences | [link](https://www.youtube.com/channel/UC2nEn-yNA1BtdDNWziphPGA) |
 | Microsoft Research | Rec Github | [link](https://github.com/microsoft/recommenders) | 
 | List of Recommender Systems | Github | [link](https://github.com/grahamjenson/list_of_recommender_systems) | 
-
+| A Gentle Introduction to Recommender Systems with Implicit Feedback | Notebook | [link](https://nbviewer.jupyter.org/github/jmsteinw/Notebooks/blob/master/RecEngine_NB.ipynb) |
 
 #### Kaggle Notebooks:
 |Kernel Name  	| link 	|
