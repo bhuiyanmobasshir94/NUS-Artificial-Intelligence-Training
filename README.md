@@ -30,7 +30,7 @@ Sessions, Workshop datasets and notebooks while training with National Universit
 | Collaborative Filtering with Neural Networks | Github | [link](https://github.com/yanneta/pytorch-tutorials/blob/master/collaborative-filtering-nn.ipynb) |
 | Graph Convolutional Neural Networks for Web-Scale Recommender Systems | GCN Paper | [link](https://paperswithcode.com/paper/graph-convolutional-neural-networks-for-web) |
 | Forecasting at Uber: An Introduction | Forecasting | [link](https://eng.uber.com/forecasting-introduction/) |
-| Recommender Systems Handbook | Book | [link](https://link.springer.com/book/10.1007/978-0-387-85820-3)|
+| Recommender Systems Handbook | Book | [link](https://link.springer.com/book/10.1007/978-0-387-85820-3) [link 2](https://dl.acm.org/doi/book/10.5555/1941884)|
 | ACM RecSys | Conferences | [link](https://www.youtube.com/channel/UC2nEn-yNA1BtdDNWziphPGA) |
 | Microsoft Research | Rec Github | [link](https://github.com/microsoft/recommenders) | 
 | List of Recommender Systems | Github | [link](https://github.com/grahamjenson/list_of_recommender_systems) | 
