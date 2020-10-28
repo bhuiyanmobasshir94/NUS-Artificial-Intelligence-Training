@@ -38,6 +38,7 @@ Sessions, Workshop datasets and notebooks while training with National Universit
 | Matrix Factorization Surprise Implementation | Github | [link](https://github.com/NicolasHug/Surprise/blob/master/surprise/prediction_algorithms/matrix_factorization.pyx) |
 | How Hulu Uses InfluxDB and Kafka to Scale to Over 1 Million Metrics a Second | Hulu Blog | [link](https://medium.com/hulu-tech-blog/how-hulu-uses-influxdb-and-kafka-to-scale-to-over-1-million-metrics-a-second-1721476aaff5) |
 | Collaborative Filtering for Implicit Feedback Datasets | Paper | [link](http://yifanhu.net/PUB/cf.pdf) |
+| Datasets for recommendation systems | Datasets | [link](https://gist.github.com/entaroadun/1653794) |
 
 #### Kaggle Notebooks:
 |Kernel Name  	| link 	|
