@@ -36,6 +36,7 @@ Sessions, Workshop datasets and notebooks while training with National Universit
 | List of Recommender Systems | Github | [link](https://github.com/grahamjenson/list_of_recommender_systems) | 
 | A Gentle Introduction to Recommender Systems with Implicit Feedback | Notebook | [link](https://nbviewer.jupyter.org/github/jmsteinw/Notebooks/blob/master/RecEngine_NB.ipynb) |
 | Matrix Factorization Surprise Implementation | Github | [link](https://github.com/NicolasHug/Surprise/blob/master/surprise/prediction_algorithms/matrix_factorization.pyx) |
+| How Hulu Uses InfluxDB and Kafka to Scale to Over 1 Million Metrics a Second | Hulu Blog | [link](https://medium.com/hulu-tech-blog/how-hulu-uses-influxdb-and-kafka-to-scale-to-over-1-million-metrics-a-second-1721476aaff5) |
 
 #### Kaggle Notebooks:
 |Kernel Name  	| link 	|
