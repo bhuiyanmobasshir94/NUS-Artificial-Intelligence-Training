@@ -39,6 +39,7 @@ Sessions, Workshop datasets and notebooks while training with National Universit
 | How Hulu Uses InfluxDB and Kafka to Scale to Over 1 Million Metrics a Second | Hulu Blog | [link](https://medium.com/hulu-tech-blog/how-hulu-uses-influxdb-and-kafka-to-scale-to-over-1-million-metrics-a-second-1721476aaff5) |
 | Collaborative Filtering for Implicit Feedback Datasets | Paper | [link](http://yifanhu.net/PUB/cf.pdf) |
 | Datasets for recommendation systems | Datasets | [link](https://gist.github.com/entaroadun/1653794) |
+| Building Recommendation Engines with PySpark | Recommendation / Pyspark | [link](https://learn.datacamp.com/courses/recommendation-engines-in-pyspark) | 
 
 #### Kaggle Notebooks:
 |Kernel Name  	| link 	|
