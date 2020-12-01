@@ -40,6 +40,7 @@ Sessions, Workshop datasets and notebooks while training with National Universit
 | Collaborative Filtering for Implicit Feedback Datasets | Paper | [link](http://yifanhu.net/PUB/cf.pdf) |
 | Datasets for recommendation systems | Datasets | [link](https://gist.github.com/entaroadun/1653794) |
 | Building Recommendation Engines with PySpark | Recommendation / Pyspark | [link](https://learn.datacamp.com/courses/recommendation-engines-in-pyspark) | 
+| Netflix Recommender System — A Big Data Case Study | Netflix recommendation | [link](https://towardsdatascience.com/netflix-recommender-system-a-big-data-case-study-19cfa6d56ff5) | 
 
 #### Kaggle Notebooks:
 |Kernel Name  	| link 	|
