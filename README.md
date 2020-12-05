@@ -42,6 +42,8 @@ Sessions, Workshop datasets and notebooks while training with National Universit
 | Building Recommendation Engines with PySpark | Recommendation / Pyspark | [link](https://learn.datacamp.com/courses/recommendation-engines-in-pyspark) | 
 | Netflix Recommender System — A Big Data Case Study | Netflix recommendation | [link](https://towardsdatascience.com/netflix-recommender-system-a-big-data-case-study-19cfa6d56ff5) | 
 | Build a Recommendation Engine With Collaborative Filtering | Collaborative filtering | [link](https://realpython.com/build-recommendation-engine-collaborative-filtering/) |
+| **Introducing TensorFlow Recommenders** | Tensorflow Recommenders | [link](https://blog.tensorflow.org/2020/09/introducing-tensorflow-recommenders.html?m=1) |
+| Building a Recommendation System in TensorFlow: Overview | Google Cloud | [link](https://cloud.google.com/solutions/machine-learning/recommendation-system-tensorflow-overview) |
 
 #### Kaggle Notebooks:
 |Kernel Name  	| link 	|
