@@ -43,7 +43,7 @@ Sessions, Workshop datasets and notebooks while training with National Universit
 | Netflix Recommender System — A Big Data Case Study | Netflix recommendation | [link](https://towardsdatascience.com/netflix-recommender-system-a-big-data-case-study-19cfa6d56ff5) | 
 | Build a Recommendation Engine With Collaborative Filtering | Collaborative filtering | [link](https://realpython.com/build-recommendation-engine-collaborative-filtering/) |
 | **Introducing TensorFlow Recommenders** | Tensorflow Recommenders | [link](https://blog.tensorflow.org/2020/09/introducing-tensorflow-recommenders.html?m=1) |
-| Building a Recommendation System in TensorFlow: Overview | Google Cloud | [link](https://cloud.google.com/solutions/machine-learning/recommendation-system-tensorflow-overview) |
+| Building a Recommendation System in TensorFlow: Overview | Google Cloud | [link](https://cloud.google.com/solutions/machine-learning/recommendation-system-tensorflow-overview) 
 
 #### Kaggle Notebooks:
 |Kernel Name  	| link 	|
@@ -54,4 +54,11 @@ Sessions, Workshop datasets and notebooks while training with National Universit
 | Recommendation engine | [kernel](https://www.kaggle.com/mobasshir/recommendation-engine/) |
 | Book Recommendations from Charles Darwin | [kernel](https://www.kaggle.com/mobasshir/book-recommendations-from-charles-darwin) |
 | Market Basket Analysis for Marketing Analytics | [kernel](https://www.kaggle.com/mobasshir/market-basket-analysis-for-marketing-analytics) |
+
+#### Secondary Resources
+1. [what-is-product-recommendation](https://www.barilliance.com/what-is-product-recommendation/)
+2. [product-recommendations](https://cxl.com/blog/product-recommendations/)
+3. [ecommerce-ai-recommender-system](https://morphl.io/blog/ecommerce-ai-recommender-system/)
+4. [product-recommendations](https://www.nosto.com/products/product-recommendations/)
+5. [syte](https://www.syte.ai/)
 
