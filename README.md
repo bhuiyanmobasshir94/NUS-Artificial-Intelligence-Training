@@ -62,3 +62,6 @@ Sessions, Workshop datasets and notebooks while training with National Universit
 4. [product-recommendations](https://www.nosto.com/products/product-recommendations/)
 5. [syte](https://www.syte.ai/)
 
+#### Nvidia
+1. [Recommender Systems, Not Just Recommender Models](https://medium.com/nvidia-merlin/recommender-systems-not-just-recommender-models-485c161c755e)
+
